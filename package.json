@@ -13,7 +13,8 @@
   "files": [
     "Destroyer.js",
     "Destroyer.d.ts",
-    "Destroyer.js.map"
+    "Destroyer.js.map",
+    "Destroyer.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
